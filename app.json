@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "black_mirror_app",
+    "slug": "black_mirror_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera."
+        }
+      ]
+    ]
+  }
+}
