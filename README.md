@@ -18,11 +18,11 @@
   <img src="assets/DystOpia_Home.png" width="320" />
   <img src="assets/DystOpia_Profile.png" width="320" height=625 />
   <img src="assets/DystOpia_SignUp.png" width="320" height=625 />
+  <img src="assets/DystOpia_Login.png" width="320" height=625 />
 </p>
 
 
 <p float="left">
-  <img src="assets/DystOpia_Login.png" width="320" height=625 />
   <img src="assets/DystOpia_Login2.png" width="320" height=625 />
 </p>
 
