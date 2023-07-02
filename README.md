@@ -1,6 +1,7 @@
 # DystOpia - Social Media App
 
-![DystOpia_Logo](https://github.com/miranamer/BlackMirror-SocialMediaApp/assets/91673777/9b1b5fa6-4c56-47ee-a1d0-4b7001c04dbc)
+
+![DystOpia_Logo](https://github.com/miranamer/BlackMirror-SocialMediaApp/assets/91673777/5c297b4e-bcf0-4906-a5b1-dc950b615082)
 
 
 <h1>Video Demo</h1>
