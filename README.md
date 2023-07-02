@@ -9,7 +9,7 @@
 
 
 <h1>What Is DystOpia?</h1>
-<p>It's an experimental social media app (proof of concept) that has a star rating system at the crux of it and doesn't use followers. This app was Inspired by Black Mirror, Episode: Nosedive.</p>
+<p>It's an experimental social media app (proof of concept) that has a star rating system at the crux of it and doesn't use followers. This app was Inspired by Black Mirror, Episode: Nosedive. The unqiue feature of this app is that it will allow you to find nearby users of the app via bluetooth (big blue button on top right) and rate them based on your interactions with them without having to know their names.</p>
 
 
 
