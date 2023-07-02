@@ -21,7 +21,7 @@
 </p>
 
 
-<p float="left" align="middle">
+<p float="left">
   <img src="assets/DystOpia_Login.png" width="320" height=625 />
   <img src="assets/DystOpia_Login2.png" width="320" height=625 />
 </p>
